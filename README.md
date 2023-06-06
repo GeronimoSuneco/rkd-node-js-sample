@@ -42,9 +42,10 @@ This project uses npm scripts for performing routine tasks:
 - npm start - Starts the application.
 - npm install - Installs the project dependencies.
 ## Dependencies
-express - A fast, unopinionated, minimalist web framework for Node.js.
+- Express - A fast, unopinionated, minimalist web framework for Node.js.
 ## Authors
-Geronimo & Anouk
+- Geronimo Wolf 
+- Anouk van der Veer
 ## License
 This project is licensed under the ISC License.
 
